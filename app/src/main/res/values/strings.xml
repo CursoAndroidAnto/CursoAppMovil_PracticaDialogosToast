@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaDialogosToast</string>
+    <string name="name">Nombre</string>
+    <string name="sucursal">Sucursal</string>
+    <string name="solicitud">Solicitud</string>
+    <string name="send">Enviar</string>
+    <string name="close">Cerrar ventana</string>
+    <string name="send_mail">Enviar correo</string>
+
+</resources>
